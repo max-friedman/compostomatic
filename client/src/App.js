@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        Welcome to the Compostomatic Dashboard
+        Welcome to the Compostomatic Dashboard 2222
       </header>
     </div>
   );
